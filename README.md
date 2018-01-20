@@ -5,9 +5,12 @@ _Checklist for accessibility venues of a11ychi events_
 - [ ] Location of venue
 - [ ] **Is the venue near accessible public transportation e.g. train, bus, drop-off/pick-up, etc.?** (Important for people with disabilities and people with low incomes)
 - [ ] Capacity of venue
+- [ ] Shape of room. Deep or wide?
 - [ ] Flexibility in seating formats (ex. classroom (seats with tables), lecture (seats), pods, etc.)
 - [ ] Any obstructed views (ex. columns, irregular walls, etc.)
 - [ ] Electrical outlets; are thet numerous, flexible in location
+- [ ] Lighting: can lighting be dimmed? Or is it off/on, all or nothing? Is it flexible enough to make the front of room dark but the back light
+- [ ] Can any windows be covered via shades or blinds?
 
 ## Audio / Visual / Wi-Fi
 - [ ] What kind of A/V setup does the venue have? (projectors, monitors, etc.)

@@ -13,6 +13,7 @@ _Checklist for accessibility venues of a11ychi events_
 - [ ] Can any windows be covered via shades or blinds?
 
 ## Audio / Visual / Wi-Fi
+### A/V
 - [ ] What kind of A/V setup does the venue have? (projectors, monitors, etc.)
  - [ ] **If Projectors**
    - [ ] How many projectors available? Ideally, two: 1) For slides; 2) For live-captioning
@@ -23,10 +24,13 @@ _Checklist for accessibility venues of a11ychi events_
  - [ ] What type of input connections available? (ex. HDMI, VGA, lightning adapters, etc.)
  - [ ] How many microphones? (Are they handheld, lapel, or both?) 
  - [ ] What kind of audio/sound system? Will it work for live captioner(s) and those watching the live-streaming?
+### Wi-Fi 
 - [ ] Is there a dedicated venue wi-fi network (separate from the primary network)?
 - [ ] Is there an ethernet connection that can be used as a fallback?
 - [ ] Is there a Wi-Fi access for organizers to connect? (i.e. for live streaming and social media posting)
 - [ ] Is there a separate, guest Wi-Fi access for any attendees who may need it for live-captioning, tweeting, etc.?
+- [ ] What is the speed of the wi-fi on the network at the venue?
+  - Use mobile app "Speedtest" to obtain download and upload speeds.
  
 ## Event Experience
 - [ ] What time can we access the venue (to setup)

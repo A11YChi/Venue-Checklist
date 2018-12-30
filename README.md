@@ -23,7 +23,8 @@ _Checklist for accessibility venues of a11ychi events_
  - [ ] What type of input connections available? (ex. HDMI, VGA, lightning adapters, etc.)
  - [ ] How many microphones? (Are they handheld, lapel, or both?) 
  - [ ] What kind of audio/sound system? Will it work for live captioner(s) and those watching the live-streaming?
- - [ ] Is there a dedicated venue wi-fi network (separate from the primary network)?
+- [ ] Is there a dedicated venue wi-fi network (separate from the primary network)?
+- [ ] Is there an ethernet connection that can be used as a fallback?
 - [ ] Is there a Wi-Fi access for organizers to connect? (i.e. for live streaming and social media posting)
 - [ ] Is there a separate, guest Wi-Fi access for any attendees who may need it for live-captioning, tweeting, etc.?
  

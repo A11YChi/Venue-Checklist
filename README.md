@@ -30,7 +30,7 @@ _Checklist for accessibility venues of a11ychi events_
 - [ ] Is there a Wi-Fi access for organizers to connect? (i.e. for live streaming and social media posting)
 - [ ] Is there a separate, guest Wi-Fi access for any attendees who may need it for live-captioning, tweeting, etc.?
 - [ ] What is the speed of the wi-fi on the network at the venue?
-  - Use [mobile app **Speedtest**](https://www.speedtest.net/apps) to obtain download and upload speeds.
+  - Use [mobile app **Speedtest**](https://www.speedtest.net/apps) to obtain download and upload speeds. Upload speeds most important for streaming.
   - 5MB speed baseline; 20MB good; 100MB great.
  
 ## Event Experience
